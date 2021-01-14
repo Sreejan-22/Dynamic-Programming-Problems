@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 // Bottom-Up method with Tabulation
 
 int fibonacci(int n) {
